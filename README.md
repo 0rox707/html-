@@ -1,1 +1,1 @@
-Esta pasta e pra colocar aarquivos html!
+Esta pasta e pra colocar arquivos html!
